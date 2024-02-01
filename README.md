@@ -1,1 +1,1 @@
-feature-selection-linear-regression branch : data cleaning, feature engineering, feature selection using Lasso
+feature-selection-linear-regression folder : data cleaning, feature engineering, feature selection using Lasso
